@@ -1,5 +1,15 @@
 # treadmill-remote-bertec-fit5
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-≥3.8-blue.svg)](https://www.python.org/)
+[![GitHub Repo](https://img.shields.io/badge/Source-GitHub-black?logo=github)](https://github.com/thomasaout/treadmill-remote-bertec-fit5)
+[![Cite this](https://img.shields.io/badge/Cite%20this-APA-lightgrey.svg)](https://github.com/thomasaout/treadmill-remote-bertec-fit5/blob/main/CITATION.cff)
+
+Python tool to control a Bertec Fit 5 treadmill remotely via socket and GUI.
+
+
+# treadmill-remote-bertec-fit5
+
 Python tool to control a Bertec Fit 5 treadmill remotely via socket and GUI.
 
 ## 📝 Description
