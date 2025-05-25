@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below:"
-title: "BertecRemoteControl – A Python interface for real-time treadmill control"
+title: "A Python interface for driving a Bertec instrumented treadmill at self-selected walking speed using the Bertec Remote Control API"
 version: 1.0.0
 date-released: 2025-05-26
 authors:
