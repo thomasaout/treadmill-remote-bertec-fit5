@@ -8,10 +8,6 @@
 Python tool to control a Bertec Fit 5 treadmill remotely via socket and GUI.
 
 
-# treadmill-remote-bertec-fit5
-
-Python tool to control a Bertec Fit 5 treadmill remotely via socket and GUI.
-
 ## 📝 Description
 
 This project provides a set of Python scripts to remotely control a Bertec Fit 5 instrumented treadmill through socket communication and a user-friendly graphical interface.
